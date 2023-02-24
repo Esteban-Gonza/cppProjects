@@ -1,0 +1,3 @@
+﻿  IntegerDataTypes.cpp
+C:\Users\marya\Documents\C++\IntegerDataTypes\IntegerDataTypes\IntegerDataTypes.cpp(7,9): warning C4101: 'total_secomds_played': unreferenced local variable
+  IntegerDataTypes.vcxproj -> C:\Users\marya\Documents\C++\IntegerDataTypes\x64\Debug\IntegerDataTypes.exe
